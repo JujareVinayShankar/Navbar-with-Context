@@ -1,0 +1,22 @@
+.home-page-container {
+  height: 100vh;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-light {
+  background-color: #000000;
+}
+
+.home-dark {
+  background-color: #ffffff;
+}
+
+.home-img {
+  width: 20%;
+}

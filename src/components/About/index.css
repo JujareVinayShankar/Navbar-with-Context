@@ -1,0 +1,19 @@
+.about-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-light {
+  background-color: #000000;
+}
+
+.about-dark {
+  background-color: #ffffff;
+}
+
+hr {
+  width: 100%;
+  color: #334155;
+}
